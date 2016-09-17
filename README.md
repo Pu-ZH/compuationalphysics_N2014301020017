@@ -1,7 +1,7 @@
 HOMEWORK LIST
 =======
 
- - [EXERCISE02_My NAME](https://github.com/Pu-ZH/compuationalphysics_N2014301020017/blob/master/Chap2/untitled0.py)
+ - [EXERCISE02_My NAME](https://github.com/Pu-ZH/compuationalphysics_N2014301020017/tree/master/EXERCISE02)
  - [EXERCISE03_All levels](link%2003)
  - [EXERCISE04_Chapter 1 problem 1.5: The decay of two kinds of particles](link%2004)
  - [EXERCISE05_Chapter 1 problem 1.6: Population growth](link%2005)
