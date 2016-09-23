@@ -11,4 +11,14 @@ EXERCISE02
      
      
  - **作业截图**  
- ![]() 
+ LEVEL 1
+------  
+通过修改l和t的数值可调节字母横向移动的距离和时间：  
+ ![homework03level1-1](https://github.com/Pu-ZH/compuationalphysics_N2014301020017/blob/master/EXERCISE03/homework03level1-1.png)   
+ ![homework03level1-2](https://github.com/Pu-ZH/compuationalphysics_N2014301020017/blob/master/EXERCISE03/homework03level1-2.png)    
+  
+LEVEL 2
+------  
+
+
+
