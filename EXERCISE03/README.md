@@ -7,8 +7,10 @@ EXERCISE02
    3. 作业L2 在80*80点阵上用字符拼出你想画的东西，并让它旋转起来，希望脑洞大开！（比如字符、火柴人、火箭等等）  
      
      
- - [**作业链接**]()  
-     
+ - **作业链接**   
+   [LEVEL 1 PYTHON](https://github.com/Pu-ZH/compuationalphysics_N2014301020017/blob/master/EXERCISE03/homework03level1.py)   
+   [LEVEL 2 PYTHON]()   
+
      
  - **作业截图**  
  LEVEL 1
