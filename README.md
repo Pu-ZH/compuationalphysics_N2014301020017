@@ -17,4 +17,4 @@ HOMEWORK LIST : PUZHENHANG
  - [Final Project: 用轨道能量分析Kirkwood Gap的缝宽](link%2015)
  
    
-
+![irving](https://github.com/Pu-ZH/compuationalphysics_N2014301020017/blob/master/photo/QQ%E5%9B%BE%E7%89%8720160925204048.gif)
