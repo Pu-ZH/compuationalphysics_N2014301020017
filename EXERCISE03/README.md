@@ -1,4 +1,4 @@
-EXERCISE02
+EXERCISE03
 =======
 
  - **作业要求**  
@@ -23,9 +23,9 @@ EXERCISE02
 LEVEL 2
 ------   
   - [homework03-level2_2.1](https://github.com/Pu-ZH/compuationalphysics_N2014301020017/blob/master/EXERCISE03/Homework03-level2-2.1.py)  可让小人做出沿四周走动的动作，
-      ![homework03-level2_2.1](https://github.com/Pu-ZH/compuationalphysics_N2014301020017/blob/master/EXERCISE03/homework03-level2_2.1.gif)
-      由[1.1](让小人沿四周平移、无动作，与[1.0](https://github.com/Pu-ZH/compuationalphysics_N2014301020017/blob/master/EXERCISE03/homework03-level2-1.0.py)相比简化了步骤，但效果相同)和2.1(让小人向左平移时有脚步的动作，结束前“！”的图案有闪烁效果)结合起来做到小人沿四周走动的动作以及“！”的闪烁效果
-    用这种方法可以做出很多动作变换，但是受目前自己语言知识的局限，方法十分笨拙！  
+      ![homework03-level2_2.1](https://github.com/Pu-ZH/compuationalphysics_N2014301020017/blob/master/EXERCISE03/homework03-level2_2.1.gif)   
+      由1.1(让小人沿四周平移、无动作，与[1.0](https://github.com/Pu-ZH/compuationalphysics_N2014301020017/blob/master/EXERCISE03/homework03-level2-1.0.py)相比简化了步骤，但效果相同)  和2.1(让小人向左平移时有脚步的动作，结束前“！”的图案有闪烁效果)结合起来, 做到小人沿四周走动的动作以及“！”的闪烁效果   
+    用这种方法可以做出很多动作变换，但是受）目前自己语言知识的局限，方法十分笨拙！  
     1.1:![homework03-level2-1.1](https://github.com/Pu-ZH/compuationalphysics_N2014301020017/blob/master/EXERCISE03/homework03-level2_1.1.gif)  
     2.0:![homework03-level2_2.0](https://github.com/Pu-ZH/compuationalphysics_N2014301020017/blob/master/EXERCISE03/homework03-level2_2.0.gif)  
   
