@@ -14,7 +14,7 @@ HOMEWORK LIST : PUZHENHANG
  - [EXERCISE12_Chapter 4](link%2012)
  - [EXERCISE13_Chapter 5](link%2013)
  - [EXERCISE14_Chapter 6](link%2014)
- - [Final Project:(link%2015)
+ - [Final Project:](link%2015)
  
    
 ![irving](https://github.com/Pu-ZH/compuationalphysics_N2014301020017/blob/master/photo/QQ%E5%9B%BE%E7%89%8720160925204048.gif)
