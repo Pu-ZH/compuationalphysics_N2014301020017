@@ -9,4 +9,6 @@ EXERCISE05
      本题目可看做2.6题的修改版，只需将g作为一个关于y的函数参与计算即可。
      
  - **作业截图**  
- ![homework05](https://github.com/Pu-ZH/compuationalphysics_N2014301020017/blob/master/EXERCISE05/homework05.png)    
+ ![homework05](https://github.com/Pu-ZH/compuationalphysics_N2014301020017/blob/master/EXERCISE05/homework05.png)
+ ![homework05-2](https://github.com/Pu-ZH/compuationalphysics_N2014301020017/blob/master/EXERCISE05/homework05-2.png)   
+ 若对角度多次取值可得到以上曲线。
