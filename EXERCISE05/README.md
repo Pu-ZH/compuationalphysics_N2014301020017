@@ -2,11 +2,11 @@ EXERCISE05
 =======
 
  - **作业要求**  
-    习题2.8：
+    习题2.8：计算炮弹的弹道（考虑重力加速度g随高度的变化）。
      
      
- - **作业链接：**[problem 1.5: The decay of two kinds of particles](https://github.com/Pu-ZH/compuationalphysics_N2014301020017/blob/master/homework04/homework04.py)     
-     由[蔡浩老师个人主页](https://www.evernote.com/shard/s140/sh/d351f9a3-8076-4274-944b-7043e0ce8cf3/4f89e8630604ea23262f00b3ed11f8ad)中的例题ppt程序改变为两种粒子衰变。
+ - **作业链接：**[problem 2.8: The decay of two kinds of particles](https://github.com/Pu-ZH/compuationalphysics_N2014301020017/blob/master/EXERCISE05/homework05_2.8.py)     
+     本题目可看做2.6题的修改版，只需将g作为一个关于y的函数参与计算即可。
      
  - **作业截图**  
- ![homework04](https://github.com/Pu-ZH/compuationalphysics_N2014301020017/blob/master/homework04/homework04.png)    
+ ![homework05](https://github.com/Pu-ZH/compuationalphysics_N2014301020017/blob/master/EXERCISE05/homework05.png)    
