@@ -10,10 +10,14 @@ EXERCISE06
     完成L2作业的同学，下次上课可以比赛，对100km的目标看谁打得最精确！
      
      
- - **作业链接：**[problem 2.8: The decay of two kinds of particles](https://github.com/Pu-ZH/compuationalphysics_N2014301020017/blob/master/EXERCISE05/homework05_2.8.py)     
+ - **作业链接：**[problem 2.10程序代码](https://github.com/Pu-ZH/compuationalphysics_N2014301020017/blob/master/EXERCISE06/homework06.py)     
      
      
  - **作业截图**  
- ![homework05](https://github.com/Pu-ZH/compuationalphysics_N2014301020017/blob/master/EXERCISE05/homework05.png)
- ![homework05-2](https://github.com/Pu-ZH/compuationalphysics_N2014301020017/blob/master/EXERCISE05/homework05-2.png)   
- 若对角度多次取值可得到以上曲线。
+    不好意思！我的Spyder出了点问题。。。   
+    他没有显示代码错误但是运行出来却变成这样了。。。：  
+ ![homework06-1](https://github.com/Pu-ZH/compuationalphysics_N2014301020017/blob/master/EXERCISE06/QQ%E5%9B%BE%E7%89%8720161024075519.png)    
+   不知道哪里出了问题，发现是Spyder出了问题，运行任何程序都会这样显示。。。甚至包括什么都不写的空程序：  
+ ![homework06-2](https://github.com/Pu-ZH/compuationalphysics_N2014301020017/blob/master/EXERCISE06/QQ%E5%9B%BE%E7%89%8720161024075555.png)   
+   由于这个问题还没有解决，浪费了大量时间，导致我目前还没有运行完成过一次。。。。所以我也不知道我写的程序对不对，但是还是上传上来了。我会请教蔡浩老师，尽快找到解决办法并完成并更新本次程序！！！
+
