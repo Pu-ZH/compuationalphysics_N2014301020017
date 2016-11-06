@@ -5,7 +5,7 @@ EXERCISE07
     习题3.13：计算两个几乎完全相同的摆，在如图Figure3.7的相应的lyapunov指数下的角度差的对数值（即log（Δθ））与时间（t）的关系。    
     ![figure3.7](https://github.com/Pu-ZH/compuationalphysics_N2014301020017/blob/master/EXERCISE07/homework07-9.jpg)    
        
- - **作业链接：**[problem 3.13: 两个相似的摆的（log（Δθ））与（t）的关系](https://github.com/Pu-ZH/compuationalphysics_N2014301020017/blob/master/EXERCISE07/homework07.py)   
+ - **作业代码链接**[problem 3.13: 两个相似的摆的（log（Δθ））与（t）的关系](https://github.com/Pu-ZH/compuationalphysics_N2014301020017/blob/master/EXERCISE07/homework07.py)   
       
        
  - **作业内容**    
