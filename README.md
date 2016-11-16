@@ -23,6 +23,8 @@ Compuational Pysics :
 Quantum Mechanics :  
 =======   
  - [HOMEWORK_3-6/7/8](https://github.com/Pu-ZH/compuationalphysics_N2014301020017/tree/master/Quantum_Mechanics/Homework_3_678)    
+ - [HOMEWORK_3-9/10/12/16](https://github.com/Pu-ZH/compuationalphysics_N2014301020017/tree/master/Quantum_Mechanics/Homework_3_9101216)    
+ 
      
      
 ![irving](https://github.com/Pu-ZH/compuationalphysics_N2014301020017/blob/master/photo/QQ%E5%9B%BE%E7%89%8720160925204048.gif)
