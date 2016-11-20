@@ -4,7 +4,7 @@ EXERCISE09
  - **作业要求**  
     习题3.31：考虑体系弹性且光滑的情况下，弹球处于一个矩形边框以及一个矩形边框里的位于矩形中心（或偏离中心一点）的圆形（或椭圆）边框之间，与边界不断碰撞的运动的情况。          
     如书中P85 FIGURE3.21：小球在矩形边框内运动：      
-    ![figure3.21](https://github.com/Pu-ZH/compuationalphysics_N2014301020017/blob/master/EXERCISE09/homework09-5.jpg)    
+    ![figure3.21](https://github.com/Pu-ZH/compuationalphysics_N2014301020017/blob/master/EXERCISE09/homework09-5.png)    
        
  - **作业代码链接**  
      [problem 3.31: The Billiard Problem](https://github.com/Pu-ZH/compuationalphysics_N2014301020017/blob/master/EXERCISE09/homework09.py)   
