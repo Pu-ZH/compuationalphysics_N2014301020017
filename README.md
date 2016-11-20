@@ -11,7 +11,7 @@ Compuational Pysics :
  - [EXERCISE06_Chapter 2 problem2.10: Cannon shell toward target(已更新)](https://github.com/Pu-ZH/compuationalphysics_N2014301020017/tree/master/EXERCISE06)  
  - [EXERCISE07_Chapter 3 problem3.13: Two nearly identical pendulums](https://github.com/Pu-ZH/compuationalphysics_N2014301020017/tree/master/EXERCISE07)      
  - [EXERCISE08_Chapter 3 problem3.20: Bifurcation diagram](https://github.com/Pu-ZH/compuationalphysics_N2014301020017/tree/master/EXERCISE08) 
- - [EXERCISE09_Chapter 3]   
+ - [EXERCISE09_Chapter 3 problem3.31: The Billiard Problem](https://github.com/Pu-ZH/compuationalphysics_N2014301020017/tree/master/EXERCISE09)       
  - [EXERCISE10_Chapter 3]    
  - [EXERCISE11_Chapter 4]     
  - [EXERCISE12_Chapter 4]   
