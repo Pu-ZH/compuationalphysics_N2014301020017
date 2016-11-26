@@ -38,6 +38,7 @@ EXERCISE10
      有一定的误差，不过大体上非常相近，且均趋近于1.0，因此可以证明开普勒第三定律：        
      绕以太阳为焦点的椭圆轨道运行的所有行星，其各自椭圆轨道半长轴的立方与周期的平方之比是一个常量。          
      
+      
      另：将程序简单修改后可探究beta=2.0时轨道的稳定性。以下为行星在几种beta值下运行若干周期的轨迹：    
 ![beta1](https://github.com/Pu-ZH/compuationalphysics_N2014301020017/blob/master/EXERCISE10/homework10-2_2.png)
 ![beta2](https://github.com/Pu-ZH/compuationalphysics_N2014301020017/blob/master/EXERCISE10/homework10-2.05_2.png)
