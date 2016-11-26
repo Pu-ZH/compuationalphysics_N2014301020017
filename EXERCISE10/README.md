@@ -6,7 +6,8 @@ EXERCISE10
      这里有太阳系的一些行星以及它们的椭圆轨道的c数据：    
     ![1](https://github.com/Pu-ZH/compuationalphysics_N2014301020017/blob/master/EXERCISE10/homework10-planet1.jpg)     
        
- - **作业代码链接**[problem 4.8: 开普勒第三定律](https://github.com/Pu-ZH/compuationalphysics_N2014301020017/blob/master/EXERCISE10/homework10.py)   
+ - **作业代码链接**      
+      [problem 4.8: 开普勒第三定律](https://github.com/Pu-ZH/compuationalphysics_N2014301020017/blob/master/EXERCISE10/homework10.py)   
       
        
  - **作业内容**    
