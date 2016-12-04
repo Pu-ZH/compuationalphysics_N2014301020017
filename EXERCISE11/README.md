@@ -20,18 +20,17 @@ EXERCISE11
      在宇宙中可以把星球看成质点，如果不计太阳系其他星球的影响，那么它们的运动就只是在引力的作用下产生的，所以我们就可以把它们的运动看成一个三体问题。    
      ![4](https://github.com/Pu-ZH/compuationalphysics_N2014301020017/blob/master/EXERCISE11/22f55a9fb506989e9fbe3e199d4cfe02.gif)     
          
-         土卫七是太阳系中最大的一颗高度不规则（非球形）天体，绕着Saturn(土星)运动。       
-         1848年美国天文学家邦德（G. Bond）和英国的拉塞尔（W. Lassell）各自独立发现土卫七，距土星1482000公里，像大星体的碎片，表面有如海绵，是目前所发现太阳系中最大的一颗非球形天体，
-也是太阳系中已知星体中唯一一个自转会混沌的星体，每21.3天绕土星旋转一周。     
+        土卫七是太阳系中最大的一颗高度不规则（非球形）天体，绕着Saturn(土星)运动。       
+        1848年美国天文学家邦德（G. Bond）和英国的拉塞尔（W. Lassell）各自独立发现土卫七，距土星1482000公里，像大星体的碎片，表面有如海绵，是目前所发现太阳系中最大的一颗非球形天体，也是太阳系中已知星体中唯一一个自转会混沌的星体，每21.3天绕土星旋转一周。     
          我们在这里研究Hyperion(土卫七)的运动：      
      ![figure4.16](https://github.com/Pu-ZH/compuationalphysics_N2014301020017/blob/master/EXERCISE11/figure4.16.jpg)     
          可以得到运动方程对其theta角进行模拟：          
      ![eq](https://github.com/Pu-ZH/compuationalphysics_N2014301020017/blob/master/EXERCISE11/e1.png)        
       
-         通过修改theta初始值可以得到theta(0)=0.0与theta(0)=0.01的两条轨道的theta差值随之间t变化的曲线。（模拟中长度单位：HU,时间单位：Hyperion-year）     
-         通过修改质心得初始速度而改变圆形轨道还是椭圆轨道（肌酸得初始速度为2π时为圆形轨道）。     
-         以下为模拟所的曲线。     
-         单个系统在圆形轨道上运动的theta与w随t变化曲线：         
+        通过修改theta初始值可以得到theta(0)=0.0与theta(0)=0.01的两条轨道的theta差值随之间t变化的曲线。（模拟中长度单位：HU,时间单位：Hyperion-year）     
+        通过修改质心得初始速度而改变圆形轨道还是椭圆轨道（肌酸得初始速度为2π时为圆形轨道）。     
+        以下为模拟所的曲线。     
+        单个系统在圆形轨道上运动的theta与w随t变化曲线：         
      ![5](https://github.com/Pu-ZH/compuationalphysics_N2014301020017/blob/master/EXERCISE11/homework11-theta-c.png)
      ![6](https://github.com/Pu-ZH/compuationalphysics_N2014301020017/blob/master/EXERCISE11/homework11-w-c.png)      
          单个系统在椭圆轨道（我们取初始速度为5）上运动的theta与w随t变化曲线：          
