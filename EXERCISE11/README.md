@@ -12,8 +12,9 @@ EXERCISE11
        
  - **作业内容**      
      ![1](https://github.com/Pu-ZH/compuationalphysics_N2014301020017/blob/master/EXERCISE11/416fe6f77a9c07804980adf458799d95.gif)       
-         三体问题（three-body problem）是天体力学中的基本力学模型。它是指三个质量、初始位置和初始速度都是任意的可视为质点的天体，在相互之间万有引力的作用下的运动规律问题。      
-         以目前已知的知识和方法并不能精确求解所有的三体问题，只能研究及种特定的情况。       
+         三体问题（three-body problem）是天体力学中的基本力学模型。它是指三个质量、初始位置和初始速度都是任意的可视为质点的天体，在相互之间万有引力的作用下的运动规律问题。
+        以目前已知的知识和方法并不能精确求解所有的三体问题，只能研究及种特定的情况。       
+        
      ![2](https://github.com/Pu-ZH/compuationalphysics_N2014301020017/blob/master/EXERCISE11/f42455bf301fb0dfab6e6bb9ce00cdf6.gif)
      ![3](https://github.com/Pu-ZH/compuationalphysics_N2014301020017/blob/master/EXERCISE11/9e98db8cf47db0c6ef50ff02703dec12.gif)     
      三体问题最简单的一个例子就是太阳系中太阳、地球和月球的运动。          
