@@ -23,8 +23,10 @@ EXERCISE12
      ![5](https://github.com/Pu-ZH/compuationalphysics_N2014301020017/blob/master/EXERCISE12/homework12-2.png)      
      
      另：     
-         可以将边界条件稍作改变，即可以绘出5.3题中两块电容板附近的电势：     
+         可以将边界条件稍作改变：    
      ![6](https://github.com/Pu-ZH/compuationalphysics_N2014301020017/blob/master/EXERCISE12/homework12-5.png)      
+     即可以绘出5.3题中两块电容板附近的电势：     
+     ![9](https://github.com/Pu-ZH/compuationalphysics_N2014301020017/blob/master/EXERCISE12/homework12-10.jpg)     
      ![7](https://github.com/Pu-ZH/compuationalphysics_N2014301020017/blob/master/EXERCISE12/homework12-3.png)      
      ![8](https://github.com/Pu-ZH/compuationalphysics_N2014301020017/blob/master/EXERCISE12/homework12-4.png)      
      
