@@ -15,7 +15,7 @@ Compuational Pysics :
  - [EXERCISE10_Chapter_4 problem4.8: Kepler's Third Law （注：本次作业上星期已按时上传，但是首页的链接出了问题。。。现已连接，请查看！）](https://github.com/Pu-ZH/compuationalphysics_N2014301020017/tree/master/EXERCISE10)    
  - [EXERCISE11_Chapter_4 problem4.19、4.20: Chaotic Tumbling of Hyperion](https://github.com/Pu-ZH/compuationalphysics_N2014301020017/tree/master/EXERCISE11)      
  - [EXERCISE12_Chapter 5_problem5.1: Electric Potential in the Prism Geometry](https://github.com/Pu-ZH/compuationalphysics_N2014301020017/tree/master/EXERCISE12)       
- - [EXERCISE13_Chapter 6 problem6.1: Frequency Spectrum of Waves on a String(with one end fixed)](https://github.com/Pu-ZH/compuationalphysics_N2014301020017/tree/master/EXERCISE13)     
+ - [EXERCISE13_Chapter 6 problem6.9: Frequency Spectrum of Waves on a String(with one end fixed)](https://github.com/Pu-ZH/compuationalphysics_N2014301020017/tree/master/EXERCISE13)     
  - [EXERCISE14_Chapter 6]    
  - [Final Project:]  
    
