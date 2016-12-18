@@ -5,7 +5,7 @@ EXERCISE13
     习题6.9： 对一端固定另一端自由的弦的波动进行频谱分析。          
        
  - **作业代码链接**     
-     [problem 6.9-1: Waves on a string(only one end fixed)](https://github.com/Pu-ZH/compuationalphysics_N2014301020017/blob/master/EXERCISE13/homework13-1.py)      
+     [problem 6.9-1: Waves on a string(with only one end fixed)](https://github.com/Pu-ZH/compuationalphysics_N2014301020017/blob/master/EXERCISE13/homework13-1.py)      
      [problem 6.9-2: String signal versus time](https://github.com/Pu-ZH/compuationalphysics_N2014301020017/blob/master/EXERCISE13/homework13-2.py)      
      [problem 6.9-3: Power spectrum](https://github.com/Pu-ZH/compuationalphysics_N2014301020017/blob/master/EXERCISE13/homework13-3.py)      
 
