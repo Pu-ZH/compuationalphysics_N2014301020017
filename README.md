@@ -28,7 +28,8 @@ Quantum Mechanics :
  - [HOMEWORK 5-1/2/3/4/5/6](https://github.com/Pu-ZH/compuationalphysics_N2014301020017/tree/master/Quantum_Mechanics/Homwwork_5_123456)      
  - [HOMEWORK 5-7/8/9/10/11/12](https://github.com/Pu-ZH/compuationalphysics_N2014301020017/tree/master/Quantum_Mechanics/Homework_5_789101112)      
  - [HOMEWORK 6-1/2/3-7-1/2](https://github.com/Pu-ZH/compuationalphysics_N2014301020017/tree/master/Quantum_Mechanics/Homework_6_123_7_12)      
- - [HOMEWORK 7-3/4-9-1/2/3 (已更新)](https://github.com/Pu-ZH/compuationalphysics_N2014301020017/tree/master/Quantum_Mechanics/Homework_7_34_9_123)
+ - [HOMEWORK 7-3/4-9-1/2/3 (已更新)](https://github.com/Pu-ZH/compuationalphysics_N2014301020017/tree/master/Quantum_Mechanics/Homework_7_34_9_123)      
+ - [HOMEWORK_9-5/6](https://github.com/Pu-ZH/compuationalphysics_N2014301020017/tree/master/Quantum_Mechanics/Homework_9_56)       
  
      
      
