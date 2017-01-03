@@ -49,7 +49,7 @@ FINAL PROJECT: RANDOM SYSTEM
      实验结果符合预期。     
      
     4、高维变形——探究高维度的均方位移对步数n（时间t）的曲线：     
-    通过与一维类似的分析方法相结合可知，在高维情况下，等步长与随机步长时的D值均不变：     
+    通过与一维类似的分析方法相结合可知，在高维情况下，等步长与随机步长时的D值均不变(为了方便表示，此处不变的D记为刚才公式中乘了d(维度)之后的D，否则高维度的D还要除以维度数d)：     
     ![eq5](https://github.com/Pu-ZH/compuationalphysics_N2014301020017/blob/master/FINAL/eq5.png)     
     对三维[(Final: Random walk in 3 dimensions)](https://github.com/Pu-ZH/compuationalphysics_N2014301020017/blob/master/FINAL/Final-RWI3D.py) 与二维[(Final: Random walk in 2 dimensions)](https://github.com/Pu-ZH/compuationalphysics_N2014301020017/blob/master/FINAL/Final-RWI2D.py) 情况（等步长与随机步长，实验组数为200）进行模拟来验证上述分析：
     ![9](https://github.com/Pu-ZH/compuationalphysics_N2014301020017/blob/master/FINAL/9.png)![10](https://github.com/Pu-ZH/compuationalphysics_N2014301020017/blob/master/FINAL/10.png)      
