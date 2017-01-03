@@ -59,7 +59,7 @@ FINAL PROJECT: RANDOM SYSTEM
     为了更直观地观察随机系统，对二维状态下的一块初始为矩形分布的粒子群在一个容器中的扩散进行了模拟[Final: Diffusion in 2 dimensions](https://github.com/Pu-ZH/compuationalphysics_N2014301020017/blob/master/FINAL/Final-Diffusion2D.py)。      
     可以修改粒子数、粒子初始分布的范围以及容器的边界大小：      
     ![11](https://github.com/Pu-ZH/compuationalphysics_N2014301020017/blob/master/FINAL/11.png)![12](https://github.com/Pu-ZH/compuationalphysics_N2014301020017/blob/master/FINAL/12.png)![13](https://github.com/Pu-ZH/compuationalphysics_N2014301020017/blob/master/FINAL/13.png)     
-    在此程序基础上，我们可以对扩散现象进行更深入的模拟与研究，但目前遇到了一些困难，故本次探究就暂时告一段落，以后有机会将继续探究！       
+    在此程序基础上，我们可以对扩散现象进行更深入的模拟与研究，但目前遇到了一些困难尚待解决，故本次探究就暂时告一段落，以后有机会将继续探究！     
        
  - **致谢：**       
  致谢蔡浩老师一学期的授课！    
