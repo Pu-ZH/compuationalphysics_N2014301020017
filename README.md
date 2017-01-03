@@ -16,7 +16,6 @@ Compuational Pysics :
  - [EXERCISE11_Chapter_4 problem4.19、4.20: Chaotic Tumbling of Hyperion](https://github.com/Pu-ZH/compuationalphysics_N2014301020017/tree/master/EXERCISE11)      
  - [EXERCISE12_Chapter 5_problem5.1: Electric Potential in the Prism Geometry](https://github.com/Pu-ZH/compuationalphysics_N2014301020017/tree/master/EXERCISE12)       
  - [EXERCISE13_Chapter 6 problem6.9: Frequency Spectrum of Waves on a String(with one end fixed)](https://github.com/Pu-ZH/compuationalphysics_N2014301020017/tree/master/EXERCISE13)     
- - [EXERCISE14_Chapter 6]    
  - [Final Project:]  
    
      
